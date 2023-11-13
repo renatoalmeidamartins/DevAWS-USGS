@@ -15,5 +15,9 @@
 - [Pagination with the Java SDK](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/pagination.html)
 - [Pagination with the Python SDK](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/paginators.html)
 - [Pagination with the .Net SDK](https://docs.aws.amazon.com/sdk-for-net/v3/developer-guide/paginators.html)
+- There are waiters for most of the services, covering the long-running operations. Some examples below:
+    - [Waiters for EC2](https://docs.aws.amazon.com/cli/latest/reference/ec2/wait/)
+    - [Waiters for DynamoDB](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wait/)
+    - [Waiters for Redshift](https://docs.aws.amazon.com/cli/latest/reference/redshift/wait/)
 
 
