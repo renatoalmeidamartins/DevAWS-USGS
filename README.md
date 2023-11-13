@@ -25,4 +25,8 @@
     - [Python](https://boto3.amazonaws.com/v1/documentation/api/1.17.109/guide/sdk-metrics.html)
 - [CodeWhisperer setup](https://docs.aws.amazon.com/codewhisperer/latest/userguide/whisper-setup-indv-devs.html)
 - [IAM Policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [JVM DNS TTL settings](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/jvm-ttl-dns.html)
+- 
+    - [Best practices for the Java SDK](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/best-practices.html)
+
 
