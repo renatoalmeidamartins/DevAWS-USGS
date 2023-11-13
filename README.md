@@ -34,3 +34,7 @@
 - [EBS volume types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
 - [About S3 11 9's durability](https://aws.amazon.com/s3/faqs/#Durability_.26_Data_Protection)
 - [Listing S3 Keys and objects](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ListingKeysUsingAPIs.html)
+- [TransferManager Java class - handles multipart upload](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/transfer-manager.html)
+- [Additional multipart upload samples in all languages](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-upload-object.html)
+- [S3 Select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)
+- [Presign URL, be careful with setting the region in the request to match the bucket region](https://docs.aws.amazon.com/cli/latest/reference/s3/presign.html)
