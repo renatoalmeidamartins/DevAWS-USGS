@@ -26,7 +26,7 @@
 - [CodeWhisperer setup](https://docs.aws.amazon.com/codewhisperer/latest/userguide/whisper-setup-indv-devs.html)
 - [IAM Policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 - [JVM DNS TTL settings](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/jvm-ttl-dns.html)
-- 
-    - [Best practices for the Java SDK](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/best-practices.html)
-
+-   [Best practices for the Java SDK](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/best-practices.html)
+- [Identity x resource-based policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
+- [Configuring credentials and profiles on the CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 
