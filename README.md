@@ -19,5 +19,9 @@
     - [Waiters for EC2](https://docs.aws.amazon.com/cli/latest/reference/ec2/wait/)
     - [Waiters for DynamoDB](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wait/)
     - [Waiters for Redshift](https://docs.aws.amazon.com/cli/latest/reference/redshift/wait/)
+- Metrics collection with the SDK
+    - [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/metrics.html)
+    - [.Net](https://aws.amazon.com/blogs/developer/retrieving-request-metrics-from-the-aws-sdk-for-net/)
+    - [Python](https://boto3.amazonaws.com/v1/documentation/api/1.17.109/guide/sdk-metrics.html)
 
 
