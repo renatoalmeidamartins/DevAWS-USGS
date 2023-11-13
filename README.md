@@ -29,4 +29,4 @@
 -   [Best practices for the Java SDK](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/best-practices.html)
 - [Identity x resource-based policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
 - [Configuring credentials and profiles on the CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-
+- [Valid condition key values](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
