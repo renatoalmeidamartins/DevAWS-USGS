@@ -30,3 +30,7 @@
 - [Identity x resource-based policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_identity-vs-resource.html)
 - [Configuring credentials and profiles on the CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
 - [Valid condition key values](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html)
+- [EBS multi-attach allows multiple instances to talk to the same volume of block storage](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes-multi.html)
+- [EBS volume types](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html)
+- [About S3 11 9's durability](https://aws.amazon.com/s3/faqs/#Durability_.26_Data_Protection)
+- [Listing S3 Keys and objects](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ListingKeysUsingAPIs.html)
