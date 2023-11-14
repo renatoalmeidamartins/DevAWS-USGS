@@ -52,3 +52,5 @@
 - [DynamoDB object persistence model](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.SDKs.Interfaces.Mapper.html)
 [DynamoDB single table design with Rick Houlihan](https://www.youtube.com/watch?v=KYy8X8t4MB8)
 [DyamoDB advanced design patterns](https://aws.amazon.com/dynamodb/resources/reinvent-2019-advanced-design-patterns/)
+- [DynamoDB parallel scans](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-query-scan.html#QueryAndScanGuidelines.ParallelScan)
+- [.Net parallel scan](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LowLevelDotNetScanning.html)
