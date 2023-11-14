@@ -38,3 +38,9 @@
 - [Additional multipart upload samples in all languages](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-upload-object.html)
 - [S3 Select](https://docs.aws.amazon.com/AmazonS3/latest/userguide/selecting-content-from-objects.html)
 - [Presign URL, be careful with setting the region in the request to match the bucket region](https://docs.aws.amazon.com/cli/latest/reference/s3/presign.html)
+
+## Day 2 links
+- [CORS definition by Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [Credential precedence](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-authentication.html)
+- [Neo4J and the Panama papers - example of using a graph database](https://neo4j.com/blog/analyzing-panama-papers-neo4j/)
+- [Dynamo paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
