@@ -55,3 +55,6 @@
 - [DynamoDB parallel scans](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-query-scan.html#QueryAndScanGuidelines.ParallelScan)
 - [.Net parallel scan](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LowLevelDotNetScanning.html)
 - [DynamoDB conditional expressions - puts, deletes, and updates](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html)
+- [Using DAX](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.html)
+- [CDK workshop](https://cdkworkshop.com/)
+- [AWS Construct Library](https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_s3.Bucket.html)
