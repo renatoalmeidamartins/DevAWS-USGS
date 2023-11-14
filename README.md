@@ -54,3 +54,4 @@
 [DyamoDB advanced design patterns](https://aws.amazon.com/dynamodb/resources/reinvent-2019-advanced-design-patterns/)
 - [DynamoDB parallel scans](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-query-scan.html#QueryAndScanGuidelines.ParallelScan)
 - [.Net parallel scan](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LowLevelDotNetScanning.html)
+- [DynamoDB conditional expressions - puts, deletes, and updates](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html)
