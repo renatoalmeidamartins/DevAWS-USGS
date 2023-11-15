@@ -1,4 +1,10 @@
 # Class links for Developing on AWS
+
+## Additional learning
+- [Skillbuider](https://skillbuilder.aws)
+- [Free practie test](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/exam-prep-official-practice-question-set-aws-certified-developer-associate-dva-c02-english)
+- [Landing page for the exam](https://aws.amazon.com/certification/certified-developer-associate/)
+
 ## Navigating the class
 - [Labs and course material](https://us-east-1.student.classrooms.aws.training/class/3n585N1dVNEFi1qcoGzT8e)
 - [Vitrual classroom](https://netcomlearning.webex.com/)
@@ -84,3 +90,4 @@
 - [SAM CLI](https://github.com/aws/aws-sam-cli)
 - [Serverless application model - SAM repo](https://github.com/aws/serverless-application-model)
 - [Using Application Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/appinsights-what-is.html)
+- [INstrumenting an application for X-Ray](https://docs.aws.amazon.com/xray/latest/devguide/xray-instrumenting-your-app.html)
