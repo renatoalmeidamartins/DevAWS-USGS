@@ -83,3 +83,4 @@
     - [AWS SAM resource types](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
 - [SAM CLI](https://github.com/aws/aws-sam-cli)
 - [Serverless application model - SAM repo](https://github.com/aws/serverless-application-model)
+- [Using Application Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/appinsights-what-is.html)
