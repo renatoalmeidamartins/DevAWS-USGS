@@ -1,5 +1,9 @@
 # Class links for Developing on AWS
 
+## My contact info
+- Email: renatoalmeidamartins@gmail.com
+- [Limkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+
 ## Additional learning
 - [Skillbuider](https://skillbuilder.aws)
 - [Free practie test](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13757/exam-prep-official-practice-question-set-aws-certified-developer-associate-dva-c02-english)
