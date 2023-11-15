@@ -64,3 +64,6 @@
 - [Lambda function URLs](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [Billing unit for Lambda is 1ms](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-changes-duration-billing-granularity-from-100ms-to-1ms/)
 - [Lambda function as a container image](https://github.com/aws/aws-lambda-python-runtime-interface-client)
+
+## Day 3 links
+- [Choosing between a HTTP and REST API](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
