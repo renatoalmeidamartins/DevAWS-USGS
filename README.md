@@ -67,3 +67,6 @@
 
 ## Day 3 links
 - [Choosing between a HTTP and REST API](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api-vs-rest.html)
+- [Using the StranglerFig pattern on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/strangler-fig.html)
+- [Strangler Fig Pattern, as proposed originally by Martin Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [AWS Tutorial to break a monolith into microservices](https://aws.amazon.com/tutorials/break-monolith-app-microservices-ecs-docker-ec2/)
