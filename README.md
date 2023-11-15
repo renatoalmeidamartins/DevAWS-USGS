@@ -80,4 +80,6 @@
     - [AWS-resource-cleanup (keep in mind it only deletes S3, EC2 and RDS)](https://github.com/paulmercy/AWS-Resource-Cleanup-Script)
     - [AWSweeper](https://github.com/jckuester/awsweeper)
     - [awsrm](https://github.com/jckuester/awsrm)
-    
+    - [AWS SAM resource types](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
+- [SAM CLI](https://github.com/aws/aws-sam-cli)
+- [Serverless application model - SAM repo](https://github.com/aws/serverless-application-model)
